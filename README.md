@@ -27,7 +27,7 @@ Desenvolvedor Full Stack com experiência desde 2016 em **C# / .NET**, **SQL Ser
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/douglas-fernandes-12a243171/  
-- E-mail: [dricardo168@gmail.com]  
+- E-mail: dricardo168@gmail.com  
 - GitHub: https://github.com/drafernandes  
 
 ---
